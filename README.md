@@ -13,6 +13,7 @@ I was went to work for Covenant Health Care as a Data Center Engineer July 2015 
 As technology continues to advance I am looking to improve my knowledge to fulfill my current responsibilities and look to the ever changing future and whatever may come. 
 
 🔭 I’m currently working on ... A wide knowledge of Computer Science and hopefully a spring board to a new career.
+
 🌱 I’m currently learning ... HTML, CSS, JS, Python, and AI Fundamentals
 
 
