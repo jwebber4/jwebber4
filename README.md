@@ -1,10 +1,13 @@
 ![image](https://github.com/user-attachments/assets/a4cbeda3-7410-4a05-a781-89c3d2e26c6b)
 
-My name is Jeffrey Webber.   I am a Data Center Engineer for Covenant Health in Knoxville, TN. 
+My name is Jeffrey Webber.   I am a Data Center Engineer for Covenant Health in Knoxville, TN.
+
 I was in the U.S. Navy for 20 years and retired in 2013.  While I was in the Navy I was an Aviation Warfare Avionics Technician.
 I learned hands on avionics, electronics, mirco-minature and surface mount soldering, cable fabrificaiton and modificaiton, Aircraft maintenance (P-3 Orion).
+
 While I was in the Navy I completed my AAS Computer Studies at Univeristy of Maryland Univeristy College (UMUC).  
 I also completed my BS Liberal Arts (Emphasis in Computer Science) at Excelsior University.
+
 I worked as field service enigeer for Emerson Network Power for 3 years.   This was hardware maintenanc on UPS systems.
 I was went to work for Covenant Health Care as a Data Center Engineer July 2015 and have working there for the last 9 years.
 As technology continues to advance I am looking to improve my knowledge to fulfill my current responsibilities and look to the ever changing future and whatever may come. 
