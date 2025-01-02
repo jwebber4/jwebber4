@@ -14,8 +14,6 @@ As technology continues to advance I am looking to improve my knowledge to fulfi
 
 🌱 I’m currently learning ... HTML, CSS, JS, Python, and AI Fundamentals
 
-📫 How to reach me: https://www.facebook.com/profile.php?id=100000004792610&mibextid=ZbWKwL
-
 
 ![image](https://github.com/user-attachments/assets/69916548-78bf-40d9-8b33-6d3020fa8d75)
 ![image](https://github.com/user-attachments/assets/e56913e5-741c-42e6-a9c8-622197e18b92)
